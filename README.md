@@ -2,11 +2,11 @@
 
 This is a React Native application that allows users to search for job listings based on various categories such as part-time, full-time, and contract positions. The app fetches job data from the Jsearch Rapid API and provides a user-friendly interface for browsing and searching for jobs.
 
-Job Listings: Users can view a list of job listings fetched from the Jsearch Rapid API.
+• Job Listings: Users can view a list of job listings fetched from the Jsearch Rapid API.
 
-Filter by Category: Users can filter job listings by category, including part-time, full-time, and contract positions.
+• Filter by Category: Users can filter job listings by category, including part-time, full-time, and contract positions.
 
-Search Functionality: The app provides a search feature that allows users to search for specific job titles or keywords.
+• Search Functionality: The app provides a search feature that allows users to search for specific job titles or keywords.
 
 ![IMG-20230918-WA0034](https://github.com/omshete0550/job_finder_app/assets/95119784/f1e32446-590d-4135-9e45-06c88f39c0e5)
 ![IMG-20230918-WA0036](https://github.com/omshete0550/job_finder_app/assets/95119784/0a3943b0-f633-42a4-b58b-2355deb5c39b)
